@@ -1,6 +1,6 @@
 #Maia Reynolds
 #3/22/18
-#monkeygame.py - best monkey game ever
+#monkeygame.py - Maia's Monkey Game
 
 from ggame import *
 from random import randint
