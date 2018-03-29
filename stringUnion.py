@@ -12,4 +12,4 @@ def stringUnion(word1,word2):
             final+=ch
     print(final)
 
-stringUnion("mississipe","mauiadbaoysifybsdiofbyiosdzvgbgz")
+stringUnion("mississipi","pennsylvania")
