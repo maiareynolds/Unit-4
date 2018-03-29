@@ -5,8 +5,8 @@
 def countdownr(n):
     if n==0: #base case
         print("BOOM!")
-    else:
+    else: #recursive step
         print(n)
         countdownr(n-1)
 
-countdownr(9)
+countdownr(9) #test
