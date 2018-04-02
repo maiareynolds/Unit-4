@@ -72,6 +72,5 @@ def click(event):
         circle=CircleAsset(r,LineStyle(1,mpink),mpink)
     Sprite(circle,(x,y))
 
-
 App().listenMouseEvent("click",click)
 App().run()
